@@ -1,3 +1,5 @@
+// My first program in this class, CS-146
+
 public class Main {
 
     public static void main(String[] args) {
